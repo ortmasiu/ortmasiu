@@ -2,4 +2,4 @@
 - 👀 I’m interested in all things software with a special interest in solving real life problems using technology.
 - 🌱 I’m currently learning about blockchain and smart contract development on the Internet Computer
 - 💞️ I’m looking to collaborate on one of the projects that I am working on called Kuro. A command engine (link below)
-- 📫 How to reach me @easilyhim on twitter
+- 📫 How to reach me @ortmasiu on twitter
