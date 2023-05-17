@@ -1,9 +1,12 @@
-Hi, I’m Olerato!👋🏾 
+Hi, I'm Olerato!👋🏾
 
-I have a passion for all things software, with a focus on using technology to solve real-life problems. I am currently exploring blockchain and smart contract development on the Internet Computer, as well as delving into the exciting worlds of machine learning, deep learning, and artificial intelligence.
+I'm a passionate mechanical engineering student with a strong interest in software development and using technology to tackle real-life challenges. Currently, I am exploring the fascinating realms of blockchain and smart contract development on the Internet Computer. Additionally, I'm delving into the exciting fields of machine learning, deep learning, and artificial intelligence.
 
-I'm looking to collaborate on one of my projects, called Kuro, a powerful command engine (link below).
+I'm actively seeking collaboration for one of my projects called Kuro, a robust command engine. You can find more information about Kuro at the following link: [www.github.com/ortmasiu/kurocommandengine](www.github.com/ortmasiu/kurocommandengine).
 
-If you'd like to connect, you can reach me at @ortmasiu on Twitter!
+If you're interested in connecting and potentially collaborating, feel free to reach out to me on Twitter. You can find me at [@ortmasiu](https://twitter.com/ortmasiu).
 
-kuro link: www.github.com/ortmasiu/kurocommandengine
+Looking forward to connecting!
+
+Best regards,
+Olerato
